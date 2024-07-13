@@ -1,11 +1,11 @@
 body {
-	img.bigImage {
+	img {
 	  border-radius: 25px;
 	  width:100%;
 	}
 }
 container {
-	img.bigImage {
+	img {
 	  border-radius: 25px;
 	  width:100%;
 	}
