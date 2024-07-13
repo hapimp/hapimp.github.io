@@ -1,8 +1,11 @@
 body {
-
+	img.bigImage {
+	  border-radius: 25px;
+	  width:100%;
+	}
 }
 container {
-	.bigImage {
+	img.bigImage {
 	  border-radius: 25px;
 	  width:100%;
 	}
