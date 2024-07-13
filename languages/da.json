@@ -1,6 +1,7 @@
-/* da.json */
 {
-    "welcome_message": "Welkommen til vores hjemmeside",
-    "about_us": "Lær mere om os",
-    "footer_text": "© 2023 All rights reserved."
-}
+    "title": "Min hjemmeside",
+    "welcome_message": "Velkommen til min hjemmeside",
+    "about_us": "Om os",
+    "footer_text": "© 2023 alle rettigheder forbeholdes"
+  }
+  
