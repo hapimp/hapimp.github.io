@@ -1,4 +1,8 @@
 body {
+	main {
+		max-width: 700px;
+	}
+
 	.bigImage {
 		border-radius: 17px;
 		width:100%;*/
@@ -8,7 +12,7 @@ body {
 		height: 0.8em;
 	}
 
-#header {
+	#header {
 		text-transform: uppercase;
 	}
 
