@@ -12,6 +12,10 @@ body {
 		height: 0.8em;
 	}
 
+	.slider {
+		max-width: 500px;
+	}
+
 	#header {
 		text-transform: uppercase;
 	}
