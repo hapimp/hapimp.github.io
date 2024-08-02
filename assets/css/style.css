@@ -8,8 +8,7 @@ body {
 		height: 0.8em;
 	}
 
-
 	#subHeader {
-		text-transform: uppercase;
+		/*text-transform: uppercase;*/
 	}
 }
