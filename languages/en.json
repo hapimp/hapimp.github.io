@@ -1,7 +1,12 @@
 {
-    "title": "Sonnekær",
-    "headline": "The Sonnekær Cottage",
-    "about_us": "Dear Guests, welcome to our summer cottage, we hope you will have a great stay here!",
+    "title": "Sonnekær Cottage",
+    "headline": "Sonnekær Cottage",
+    "subheader": "The cozy cottage on the west coast of Jutland",
+    "intro_1": "Traditional Danish summerhouse from the 1970s. Lovely nature plot with many trees and shrubs and a stream running in the backyard.",
+    "intro_2": "Unique location in wild natural area on the sea between the North Sea and Ringkøbing fjord (10-15 minutes walk to both the sea and fjord).",
+    "intro_3": "Great access to windsurfing, fishing, water park, bike trails in nature and more.",
+    "intro_4": "1000 mbit internet and satellite TV with many international channels (German, English, etc.).",
+    "intro_5": "Close to local grocery store with bakery section and fresh fish specialties.",
     "link": "before link",
     "afterLink": " after link",
     "footer_text": "Sonnekær | tel: +45 502 068 10 | e-mail: xxx@gmail.com"
