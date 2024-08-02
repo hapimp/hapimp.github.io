@@ -1,8 +1,4 @@
 body {
-	main {
-		max-width: 700px;
-	}
-
 	.bigImage {
 		border-radius: 17px;
 		width:100%;*/
@@ -13,7 +9,7 @@ body {
 	}
 
 	.slider {
-		max-width: 500px;
+		max-width: 700px;
 	}
 
 	#header {
