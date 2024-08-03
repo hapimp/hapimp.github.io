@@ -26,7 +26,7 @@ body {
 }
 
 
-html,
+/*html,
     body {
       position: relative;
       height: 100%;
@@ -39,7 +39,7 @@ html,
       color: #000;
       margin: 0;
       padding: 0;
-    }
+    }*/
 
     .swiper {
       width: 100%;
@@ -62,10 +62,10 @@ html,
       object-fit: cover;
     }
 
-    body {
+    /*body {
       background: #000;
       color: #000;
-    }
+    }*/
 
     .swiper {
       width: 100%;
