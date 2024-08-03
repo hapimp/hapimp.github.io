@@ -4,6 +4,10 @@ body {
 		width:100%;*/
 	}
 
+	.container {
+		max-width: 800px;
+	}
+
 	.link {
 		height: 0.8em;
 	}
