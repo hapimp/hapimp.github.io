@@ -119,6 +119,6 @@ body {
       border-color: transparent;
     }
 
-    .swiper-button-prev:hover {
+    .swiper-button-prev:active {
       border: none;
     }
