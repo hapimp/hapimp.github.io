@@ -112,7 +112,7 @@ body {
       object-fit: cover;
     }
 
-    .swiper-button-prev {
+    .swiper-button-prev, .swiper-button-next {
       background-color: transparent;
-      pico-primary-border: none;
+      pico-border-color: none;
     }
