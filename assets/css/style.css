@@ -123,3 +123,13 @@ body {
       border: none;
       box-shadow: none;
     }
+
+    .swiper-button-prev:active {
+      border: none;
+      box-shadow: none;
+    }
+
+    .swiper-button-prev:hover {
+      border: none;
+      box-shadow: none;
+    }
