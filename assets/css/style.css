@@ -113,7 +113,7 @@ body {
     }
 
     .swiper-button-prev, .swiper-button-next, .swiper-button-prev:focus, .swiper-button-prev:active, .swiper-button-prev:hover {
-      /*background-color: transparent;
+      background-color: transparent;
       pico-border-color: none;*/
       box-shadow: none;
       border: none;
