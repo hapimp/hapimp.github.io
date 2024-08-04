@@ -23,6 +23,10 @@ body {
 	#subHeader {
 		/*text-transform: uppercase;*/
 	}
+
+	#menuItem {
+		text-transform: uppercase;
+	}
 }
 
 
