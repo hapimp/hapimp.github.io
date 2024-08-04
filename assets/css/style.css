@@ -121,4 +121,5 @@ body {
 
     .swiper-button-prev:active {
       border: none;
+      box-shadow: none;
     }
