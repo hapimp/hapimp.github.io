@@ -118,3 +118,7 @@ body {
       border: none;
       border-color: transparent;
     }
+
+    .swiper-button-prev:hover {
+      border: none;
+    }
