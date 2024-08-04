@@ -119,7 +119,7 @@ body {
       border-color: transparent;
     }
 
-    .swiper-button-prev:active {
+    .swiper-button-prev:focus {
       border: none;
       box-shadow: none;
     }
