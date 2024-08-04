@@ -112,7 +112,7 @@ body {
       object-fit: cover;
     }
 
-    .swiper-button-prev, .swiper-button-next, .swiper-button-prev:focus, .swiper-button-prev:active, .swiper-button-prev:hover {
+    .swiper-button-prev, .swiper-button-next, /*.swiper-button-prev:focus, .swiper-button-prev:active, .swiper-button-prev:hover, .swiper-button-next:focus, .swiper-button-next:active, .swiper-button-next:hover*/ {
       background-color: transparent;
       pico-border-color: none;
       box-shadow: none;
