@@ -19,8 +19,7 @@ body {
 	.footer {
 		color: gray;
 		font-style: italic;
-		border-top: 1px solid;
-		padding-top: 5px;
+		/*padding-top: 5px;*/
 	}
 	
 	#header {
