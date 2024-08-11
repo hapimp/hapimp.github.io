@@ -21,6 +21,9 @@
 
     "link": "before link",
     "afterLink": " after link",
-    "footer_text": "Sonnekær | tel: +45 502 068 10 | e-mail: xxx@gmail.com"
+    "footer_text": "Sonnekær | tel: +45 502 068 10 | e-mail: xxx@gmail.com",
+
+    "theHouseHeader": "The House",
+    "theHouse_1": "Text about the house"
   }
   
