@@ -16,6 +16,11 @@ body {
 		max-width: 700px;
 	}
 
+	.footer {
+		color: gray;
+		font-style: italic;
+	}
+	
 	#header {
 		text-transform: uppercase;
 	}
