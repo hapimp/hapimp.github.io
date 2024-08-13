@@ -22,11 +22,15 @@
     "otherThingsHeader": "Other things to note",
     "otherThings_1": "Smoking in the house is not allowed.",
 
-    "link": "before link",
-    "afterLink": " after link",
     "footer_text": "Sonnekær | tel: +45 502 068 10 | e-mail: xxx@gmail.com",
 
     "theHouseHeader": "The House",
-    "theHouse_1": "Text about the house"
+    "theHouse_1": "Text about the house",
+  
+    "areaHeader" : "The Area",
+    "area_1" : "Text about the area",
+
+    "bookHeader" : "Booking",
+    "book_1" : "Text about booking"
   }
   
